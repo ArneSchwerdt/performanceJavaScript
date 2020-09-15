@@ -36,7 +36,7 @@ Concatenation x 0.77 ops/sec ±13.10% (6 runs sampled)
 ArrayLookup x 193 ops/sec ±1.29% (82 runs sampled)
 ObjectLookup x 197 ops/sec ±0.71% (77 runs sampled)
 ```
-## Read a Number Array vs. Read Items of an Array of Object(OOP Tradeoff)
+## Read a Number Array vs. Read Items of an Array of Objects (OOP Tradeoff)
 ```
 ReadArray x 1,816 ops/sec ±0.47% (96 runs sampled)
 ReadObjectItems x 414 ops/sec ±0.44% (89 runs sampled)
