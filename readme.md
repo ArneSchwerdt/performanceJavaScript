@@ -1,4 +1,4 @@
-# High Performance JavaScript
+# Performance Compare JavaScript
 ## Scenario
 Thinkpad L580
 Intel CORE i7 8th Gen
